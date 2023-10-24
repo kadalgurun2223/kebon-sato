@@ -1,0 +1,12 @@
+.pemandangan{
+    background-image: url(michael-Wk3P6vL9m40-unsplash\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: lightslategrey;
+    text-decoration: none;
+}
